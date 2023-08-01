@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd15d073-4a01-4a27-9aa2-499913eb0357" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/InputName/InputName.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/KeywordsAndExpressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LargestPrime/LargestPrime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LastDigitChecker/LastDigitChecker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LeapYearCalculator/LeapYearCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/MegaBytesConverter/MegaBytesConverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/MinAndMaxInputChallenge/MinAndMaxInputChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/NumberInWord/NumberInWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/NumberOfDaysInMonth/NumberOfDaysInMonth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/NumberPalindrome/NumberPalindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/NumberToWords/NumberToWords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/Sum3And5Challenge/Sum3And5Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/first-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/CountDigit/CountDigit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/DiagonalStar/DiagonalStar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/DigitSumChallenge/DigitSumChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/ForLoop/ForLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/IfElse/IfElse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/PaintJob/PaintJob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/Switch/Switch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/SwitchStatements/SwitchStatements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/TeenNumberChecker/TeenNumberChecker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditionals-Loops/conditionals-loops/conditionals-loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/Animal/Animal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/BankAccount/BankAccount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/CarPolymorphism/CarPolymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/CarpetCostCalculator/CarpetCostCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/Circle/Circle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/ComplexOperations/ComplexOperations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/Composition/Composition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/ComputerPrinter/ComputerPrinter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/House/House.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/MethodOverloading/MethodOverloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/Methods/Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/OOPMasterChallenge/OOPMasterChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/Person/Person.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/Rectangle/Rectangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/Rooms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/StaticMethods/StaticMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS_Examples/Vehicle/Vehicle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Orientated_Programming/ObjectOrientatedProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types/ByteShortIntLong/ByteShortIntLong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types/CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types/FloatAndDouble/FloatAndDouble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFactors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFactors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFactors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFactors/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFactors/AllFactors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFactors/src/FactorPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFactors/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/Animal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/src/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/src/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCalculator/src/AreaCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCalculator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/academy/learnprogramming/average.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/academy/learnprogramming/newAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/BankAccount.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/src/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/src/VipCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarkingDog/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarkingDog/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MinimumElementInAnArray/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarkingDog/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BarkingDog/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarkingDog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MinimumElementInAnArray/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarkingDog/BarkingDog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Sorting/Sorting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarkingDog/src/BarkingDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BarkingDog/src/BarkingDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarkingDog/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BarkingDog/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCalc/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCalc/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCalc/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCalc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCalc/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BasicCalc/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCalc/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCalc/BasicCalc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/ArrayChallenge/ArrayChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCalc/src/com/abhishek/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BasicCalc/src/com/abhishek/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MinimumElementInAnArray/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/BinarySearch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/FindElementInMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/FindElementInMountainArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/FirstAndLastOccurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/FirstAndLastOccurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/InfiniteArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/InfiniteArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/OrderAgnosticBS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/OrderAgnosticBS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/PeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/PeakElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/RotatedBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/RotatedBinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/RotatedBinarySearch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/RotatedBinarySearch2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/RowColMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/RowColMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/SmallestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/SmallestLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/SortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/SortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/com/abhishek/SplitArrayLargestSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BinarySearch/src/com/abhishek/SplitArrayLargestSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarPolymorphism/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarPolymorphism/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarPolymorphism/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarPolymorphism/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarPolymorphism/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarPolymorphism/CarPolymorphism.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarPolymorphism/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/CarpetCostCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/src/Carpet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/src/Floor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BarkingDog/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BasicCalc/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BasicCalc/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BasicCalc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BasicCalc/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BarkingDog/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Arrays/Arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle/Circle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle/src/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComplexOperations/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComplexOperations/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComplexOperations/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComplexOperations/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComplexOperations/ComplexOperations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComplexOperations/src/ComplexNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComplexOperations/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/Composition.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/src/Case.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/src/Dimensions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/src/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/src/Motherboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/src/PC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/src/Resolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerPrinter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerPrinter/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerPrinter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerPrinter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerPrinter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerPrinter/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerPrinter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerPrinter/ComputerPrinter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerPrinter/src/academy/learnprogramming/ComputerPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerPrinter/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDigit/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BasicCalc/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDigit/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BarkingDog/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDigit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDigit/CountDigit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/ResizeArray/ResizeArray.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDigit/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOfTheWeek/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOfTheWeek/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOfTheWeek/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOfTheWeek/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOfTheWeek/DayOfTheWeek.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOfTheWeek/src/DayOfTheWeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOfTheWeek/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecimalComparator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecimalComparator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecimalComparator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecimalComparator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecimalComparator/src/DecimalComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecimalComparator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagonalStar/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagonalStar/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagonalStar/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagonalStar/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagonalStar/DiagonalStar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagonalStar/src/DiagonalStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagonalStar/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DigitSumChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DigitSumChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DigitSumChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DigitSumChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DigitSumChallenge/DigitSumChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DigitSumChallenge/src/DigitSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DigitSumChallenge/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/src/EnhancedPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/src/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSumChecker/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSumChecker/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSumChecker/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSumChecker/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSumChecker/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSumChecker/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSumChecker/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSumChecker/src/academy/learnprogramming/EqualSumChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSumChecker/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityPrinter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityPrinter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityPrinter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityPrinter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityPrinter/EqualityPrinter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityPrinter/src/IntEqualityPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityPrinter/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenDigitSum/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenDigitSum/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenDigitSum/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenDigitSum/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenDigitSum/EvenDigitSum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenDigitSum/src/EvenDigitSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenDigitSum/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibonacciNumber/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibonacciNumber/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibonacciNumber/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibonacciNumber/FibonacciNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibonacciNumber/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAndLastDigitSum/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAndLastDigitSum/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAndLastDigitSum/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAndLastDigitSum/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAndLastDigitSum/FirstAndLastDigitSum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAndLastDigitSum/src/FirstLastDigitSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAndLastDigitSum/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlourPackProblem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlourPackProblem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlourPackProblem/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlourPackProblem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlourPackProblem/FlourPackProblem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlourPackProblem/src/FlourPacker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlourPackProblem/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/ForLoop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/ReverseArray/ReverseArray.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisor/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisor/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/GreatestCommonDivisor/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisor/GreatestCommonDivisor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/AllFactors/AllFactors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisor/src/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/GreatestCommonDivisor/src/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisor/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/GreatestCommonDivisor/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/GreatestCommonDivisor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/HelloWorld/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/House/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/House/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/House/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/House/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/House/House.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/House/src/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/House/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfElse/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfElse/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfElse/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfElse/IfElse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfElse/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputCalculator/InputCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputCalculator/src/InputCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputCalculator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputName/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputName/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputName/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/InputName/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputName/InputName.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/AreaCalculator/AreaCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputName/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/InputName/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/GreatestCommonDivisor/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/GreatestCommonDivisor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BarkingDog/BarkingDog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestPrime/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestPrime/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/InputName/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestPrime/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LargestPrime/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestPrime/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestPrime/LargestPrime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/BasicCalc/BasicCalc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestPrime/src/LargestPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LargestPrime/src/LargestPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestPrime/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LargestPrime/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LastDigitChecker/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/InputName/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LastDigitChecker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LargestPrime/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LastDigitChecker/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LastDigitChecker/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LastDigitChecker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LargestPrime/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LastDigitChecker/LastDigitChecker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LastDigitChecker/src/LastDigitChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LastDigitChecker/src/LastDigitChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LastDigitChecker/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LastDigitChecker/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYearCalculator/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYearCalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LastDigitChecker/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYearCalculator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LeapYearCalculator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYearCalculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LastDigitChecker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYearCalculator/src/LeapYearCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LeapYearCalculator/src/LeapYearCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYearCalculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LeapYearCalculator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LargestPrime/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/LinearSearch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/abhishek/ArrayList_LS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/src/com/abhishek/ArrayList_LS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/abhishek/EvenDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/src/com/abhishek/EvenDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/abhishek/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/src/com/abhishek/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/abhishek/MinElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/src/com/abhishek/MinElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/abhishek/RichestCustomerWealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/src/com/abhishek/RichestCustomerWealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/abhishek/SearchIn2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/src/com/abhishek/SearchIn2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/abhishek/SearchInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/src/com/abhishek/SearchInRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/src/com/abhishek/String_LS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/LinearSearch/src/com/abhishek/String_LS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MegaBytesConverter/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LastDigitChecker/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MegaBytesConverter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LeapYearCalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MegaBytesConverter/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/MegaBytesConverter/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MegaBytesConverter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LeapYearCalculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/DayOfTheWeek/DayOfTheWeek.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MegaBytesConverter/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/MegaBytesConverter/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MegaBytesConverter/src/MegaBytesConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/MegaBytesConverter/src/MegaBytesConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/Methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinAndMaxInputChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinAndMaxInputChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinAndMaxInputChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinAndMaxInputChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinAndMaxInputChallenge/MinAndMaxInputChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinAndMaxInputChallenge/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinAndMaxInputChallenge/src/MinAndMaxInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumElementInAnArray/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/LeapYearCalculator/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumElementInAnArray/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/MegaBytesConverter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumElementInAnArray/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MinimumElementInAnArray/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumElementInAnArray/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/MegaBytesConverter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumElementInAnArray/MinimumElementInAnArray.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MinimumElementInAnArray/MinimumElementInAnArray.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumElementInAnArray/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MinimumElementInAnArray/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinutesToYearsDaysCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinutesToYearsDaysCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinutesToYearsDaysCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinutesToYearsDaysCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinutesToYearsDaysCalculator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinutesToYearsDaysCalculator/src/MinutesToYearsDaysCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberInWord/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberInWord/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberInWord/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberInWord/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberInWord/NumberInWord.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberInWord/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberInWord/src/NumberInWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberOfDaysInMonth/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberOfDaysInMonth/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberOfDaysInMonth/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberOfDaysInMonth/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberOfDaysInMonth/NumberOfDaysInMonth.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberOfDaysInMonth/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberOfDaysInMonth/src/NumberOfDaysInMonth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberPalindrome/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberPalindrome/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberPalindrome/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberPalindrome/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberPalindrome/NumberPalindrome.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberPalindrome/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberPalindrome/src/NumberPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberToWords/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberToWords/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberToWords/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberToWords/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberToWords/NumberToWords.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberToWords/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberToWords/src/NumberToWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPMasterChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPMasterChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPMasterChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPMasterChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPMasterChallenge/OOPMasterChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPMasterChallenge/src/DeluxeBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPMasterChallenge/src/Hamburger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPMasterChallenge/src/HealthyBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPMasterChallenge/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/ObjectOrientatedProgramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/Car/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/Car/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/Inheritance/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/Inheritance/BoxWeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/Inheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/introduction/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/packages/a/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/packages/b/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/singleton/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/singleton/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/staticExample/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/staticExample/InnerClasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/staticExample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses/src/com/abhishek/staticExample/StaticBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperatorsChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperatorsChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperatorsChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperatorsChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperatorsChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperatorsChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperatorsChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperatorsChallenge/OperatorsChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperatorsChallenge/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaintJob/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/MegaBytesConverter/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaintJob/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/Sum3And5Challenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaintJob/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/PaintJob/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaintJob/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaintJob/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/Sum3And5Challenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaintJob/PaintJob.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/DecimalComparator/DecimalComparator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaintJob/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/PaintJob/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaintJob/src/PaintJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/PaintJob/src/PaintJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsingValuesFromAString/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsingValuesFromAString/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsingValuesFromAString/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsingValuesFromAString/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsingValuesFromAString/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsingValuesFromAString/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsingValuesFromAString/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsingValuesFromAString/ParsingValuesFromAString.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsingValuesFromAString/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumber/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumber/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumber/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumber/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumber/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumber/src/PerfectNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/Sum3And5Challenge/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/PaintJob/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Person/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/PaintJob/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person/Person.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/EqualSumChecker/EqualSumChecker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Person/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Person/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayingCat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayingCat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayingCat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayingCat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayingCat/PlayingCat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayingCat/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayingCat/src/PlayingCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/Point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/src/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoolArea/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoolArea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoolArea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoolArea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoolArea/PoolArea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoolArea/src/Cuboid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoolArea/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoolArea/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/TeenNumberChecker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/EqualityPrinter/EqualityPrinter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/TeenNumberChecker/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rectangle/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/WhileAndDoWhileLoop/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle/Rectangle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/EvenDigitSum/EvenDigitSum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rectangle/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rectangle/src/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResizeArray/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResizeArray/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResizeArray/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResizeArray/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResizeArray/ResizeArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResizeArray/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseArray/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseArray/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseArray/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseArray/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseArray/ReverseArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseArray/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseNumber/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseNumber/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseNumber/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseNumber/ReverseNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseNumber/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseNumber/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/PaintJob/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Person/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Person/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/Rooms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/FibonacciNumber/FibonacciNumber.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/src/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/src/Bed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/src/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/src/Bedroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/src/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/src/Ceiling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/src/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/src/Lamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rooms/src/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/src/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/TeenNumberChecker/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/WhileAndDoWhileLoop/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rectangle/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/FirstAndLastDigitSum/FirstAndLastDigitSum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleInterest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleInterest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleInterest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleInterest/SimpleInterest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleInterest/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/Sorting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/src/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/src/CyclicSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/src/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/src/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/src/academy/learnprogramming/SpeedConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/StatementsWhiteSpacesAndIndentation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticMethods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticMethods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticMethods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticMethods/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticMethods/StaticMethods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticMethods/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticMethods/src/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticMethods/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Strings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/Output.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/Performance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/PrettyPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/SB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum3And5Challenge/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/WhileAndDoWhileLoop/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum3And5Challenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rectangle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum3And5Challenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/Sum3And5Challenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum3And5Challenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum3And5Challenge/Sum3And5Challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/FlourPackProblem/FlourPackProblem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum3And5Challenge/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/Sum3And5Challenge/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum3And5Challenge/src/Sum3And5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/Sum3And5Challenge/src/Sum3And5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumCalculator/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumCalculator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumCalculator/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumCalculator/SumCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumCalculator/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumCalculator/src/academy/learnprogramming/SimpleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumOdd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumOdd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumOdd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumOdd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumOdd/SumOdd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumOdd/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumOdd/src/SumOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/Switch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/src/academy/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchStatements/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchStatements/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchStatements/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchStatements/SwitchStatements.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchStatements/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeenNumberChecker/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Person/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeenNumberChecker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeenNumberChecker/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/TeenNumberChecker/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeenNumberChecker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeenNumberChecker/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/TeenNumberChecker/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeenNumberChecker/src/TeenNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/TeenNumberChecker/src/TeenNumberChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehicle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehicle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehicle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehicle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehicle/Vehicle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehicle/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehicle/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehicle/src/Outlander.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehicle/src/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoop/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rectangle/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoop/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/WhileAndDoWhileLoop/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoop/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/WhileAndDoWhileLoop/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoop/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/WhileAndDoWhileLoop/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoop/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/WhileAndDoWhileLoop/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoop/WhileAndDoWhileLoop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/GreatestCommonDivisor/GreatestCommonDivisor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoop/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/WhileAndDoWhileLoop/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/Rooms/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conditionals-Loops/PaintJob/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/conditionals-loops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/AreaOfCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/AreaOfEquilateralTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/AreaOfIsosceles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/AreaOfParallelogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/AreaOfRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/AreaOfRhombus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/AreaOfTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/CurvedSurfaceAreaOfCylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/PerimeterOfCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/PerimeterOfEquilateralTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/PerimeterOfParallelogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/PerimeterOfRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/PerimeterOfRhombus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/PerimeterOfSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/VolumeOfCone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/VolumeOfCylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/VolumeOfPrism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/VolumeOfPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals-loops/src/com/abhishek/VolumeOfSphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/first-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/InputCalculator/InputCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/src/com/abhishek/ArmstrongInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/src/com/abhishek/ArmstrongInRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/src/com/abhishek/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/src/com/abhishek/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/src/com/abhishek/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/src/com/abhishek/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/src/com/abhishek/Greetings.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/src/com/abhishek/Greetings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/src/com/abhishek/INRtoUSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/src/com/abhishek/INRtoUSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/src/com/abhishek/LargestOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/src/com/abhishek/LargestOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/src/com/abhishek/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/src/com/abhishek/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/src/com/abhishek/SI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/src/com/abhishek/SI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/src/com/abhishek/SmallCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/src/com/abhishek/SmallCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java/src/com/abhishek/StringPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_JavaPrograms/first-java/src/com/abhishek/StringPalindrome.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="244pB6Hant7VgSyS0TdRUIPh5WL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Documents\Github\Java-IDEA-Projects\conditionals-loops" />
+      <recent name="E:\Documents\Github\Java-IDEA-Projects\basic_JavaPrograms" />
+      <recent name="E:\Documents\Github\Java-IDEA-Projects\OOPS_Examples" />
+      <recent name="E:\Documents\Github\Java-IDEA-Projects\data_types" />
+      <recent name="E:\Documents\Github\Java-IDEA-Projects\Conditionals-Loops" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd15d073-4a01-4a27-9aa2-499913eb0357" name="Changes" comment="" />
+      <created>1642899581310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642899581310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

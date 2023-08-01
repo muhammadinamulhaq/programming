@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" filepath="$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_JavaPrograms/BarkingDog/BarkingDog.iml" filepath="$PROJECT_DIR$/Basic_JavaPrograms/BarkingDog/BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_JavaPrograms/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/Basic_JavaPrograms/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" filepath="$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" filepath="$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualityPrinter/EqualityPrinter.iml" filepath="$PROJECT_DIR$/EqualityPrinter/EqualityPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_JavaPrograms/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/Basic_JavaPrograms/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/Basic_JavaPrograms/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_JavaPrograms/LeapYearCalculator/LeapYearCalculator.iml" filepath="$PROJECT_DIR$/Basic_JavaPrograms/LeapYearCalculator/LeapYearCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_JavaPrograms/MegaBytesConverter/MegaBytesConverter.iml" filepath="$PROJECT_DIR$/Basic_JavaPrograms/MegaBytesConverter/MegaBytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculator.iml" filepath="$PROJECT_DIR$/MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorsChallenge/OperatorsChallenge.iml" filepath="$PROJECT_DIR$/OperatorsChallenge/OperatorsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayingCat/PlayingCat.iml" filepath="$PROJECT_DIR$/PlayingCat/PlayingCat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/data_types/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/OOPS_Examples/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/StatementsWhiteSpacesAndIndentation.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/StatementsWhiteSpacesAndIndentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals-loops/TeenNumberChecker/TeenNumberChecker.iml" filepath="$PROJECT_DIR$/conditionals-loops/TeenNumberChecker/TeenNumberChecker.iml" />
+    </modules>
+  </component>
+</project>
